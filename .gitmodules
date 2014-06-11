@@ -1,0 +1,4 @@
+[submodule "ami-creator"]
+	path = ami-creator
+	url = https://github.com/katzj/ami-creator.git
+	branch = master
