@@ -24,3 +24,7 @@ img2docker <image_name>.img <docker_name>.img
 ```
 
 That's it !
+
+
+To Do :
+1. Dockerize all that stuff !
