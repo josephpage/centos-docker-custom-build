@@ -20,7 +20,7 @@ ami-creator <your_ks_file> <image_name>
 6. Transform this image to a Docker
 ```
 chmod +x img2docker.sh
-img2docker <image_name>.img <docker_name>.img
+./img2docker.sh <image_name>.img <docker_name>
 ```
 
 That's it !
