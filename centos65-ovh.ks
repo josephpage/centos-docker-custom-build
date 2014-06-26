@@ -113,4 +113,15 @@ rm -f /sbin/sln
 rm -rf /etc/ld.so.cache
 rm -rf /var/cache/ldconfig/*
 
+# ************************
+# Add customizations here
+
+
+# EPEL repo
+rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
+
+
+# End of customizations
+# ************************
+
 %end
