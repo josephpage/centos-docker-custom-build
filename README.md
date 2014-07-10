@@ -25,6 +25,6 @@ chmod +x img2docker.sh
 
 That's it !
 
-
-To Do :
-1. Dockerize all that stuff !
+Sources :
+https://github.com/CentOS/sig-cloud-instance-build/tree/master/docker
+http://dan.carley.co/blog/2012/04/17/centos-amis-from-kickstart/
