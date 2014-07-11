@@ -68,6 +68,7 @@ reboot
 -openssh-server
 -postfix
 git
+tar
 %end
 
 %post
